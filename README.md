@@ -18,6 +18,8 @@ Repositorio para ir publicando las soluciones de los challenges del evento Codem
 - [Challenge 01](https://github.com/SantiMenendez19/codember/tree/main/challenge01)
 - [Challenge 02](https://github.com/SantiMenendez19/codember/tree/main/challenge02)
 - [Challenge 03](https://github.com/SantiMenendez19/codember/tree/main/challenge03)
+- [Challenge 04](https://github.com/SantiMenendez19/codember/tree/main/challenge04)
+- [Challenge 05](https://github.com/SantiMenendez19/codember/tree/main/challenge05)
 
 ## Secrets
 
@@ -49,6 +51,18 @@ Repositorio para ir publicando las soluciones de los challenges del evento Codem
 
 - Secret 09
         - Magic
+
+- Secret 10
+        - Tetris
+
+- Secret 11
+        - Cowsay
+
+- Secret 12
+        - Mail 5
+
+- Secret 13
+        - Final mars mission
 
 ## URL
 
